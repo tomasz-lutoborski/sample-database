@@ -1,4 +1,4 @@
-#!/home/tomek/Dev/sample-database/venv/bin/python3
+#!/home/tomek/Dev/sample-database/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
